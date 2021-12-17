@@ -1,0 +1,12 @@
+body{
+  font-family: 'Segoe UI', Arial
+}
+.error{
+  color: red;
+  font-size: smaller;
+}
+
+.block{
+  float:left;
+  width:33%;
+}
